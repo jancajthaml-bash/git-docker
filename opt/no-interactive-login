@@ -1,0 +1,5 @@
+#!/bin/sh
+
+ls -al /git-server/repos
+
+exit 128
